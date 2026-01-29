@@ -1,7 +1,5 @@
-====================================================
-ARP-SPOOFER - LTX74
-Professional ARP Spoofing / MITM Framework
-====================================================
+# ARP-SPOOFER - LTX74
+## Professional ARP Spoofing / MITM Framework
 
 Author      : LTX74
 Language    : Python 3
